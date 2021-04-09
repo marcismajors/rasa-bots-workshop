@@ -1,0 +1,15 @@
+source ~/venv/bin/activate
+cd /vagrnant
+jupyter lab
+
+rasa --version
+rasa init
+rasa train
+rasa shell
+rasa interactive
+rasa shell nlu
+
+https://api.chucknorris.io/jokes/random
+https://discord.com/developers/applications
+
+sudo lsof -i -P -n | grep LISTEN
