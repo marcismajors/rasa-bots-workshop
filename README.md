@@ -6,7 +6,7 @@ Easiest (and recommended) way to configure system for a workshop is by using [va
 
 Vagrantfile has configuration to use 2 cores and 4GB RAM, that can be altered if needed with simple text editor like notepad.  
 
-To check that vagrant works as expected in terminal cd to main rasa-bots folder and use
+To check that vagrant works as expected in terminal cd to main (rasa-bots-workshop) folder and use
 ```bash
 vagrant up
 ```
