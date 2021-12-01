@@ -8,6 +8,10 @@ rasa train
 rasa shell
 rasa interactive
 rasa shell nlu
+rasa run actions
+
+export TOKEN={your token}
+python discord_client.py
 
 https://api.chucknorris.io/jokes/random
 https://discord.com/developers/applications
