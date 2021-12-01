@@ -4,6 +4,7 @@
 # RASA
 .tar.gz
 */models/
+*.rasa/
 *story_graph.dot
 
 # Ubuntu trash folder for simple delete
